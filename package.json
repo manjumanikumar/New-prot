@@ -1,0 +1,16 @@
+{
+  "name": "Amruta",
+  "version": "0.0.1",
+  "description": "Parallel tests protractor  =============",
+  "main": "",
+  "scripts": {
+    "test": "./node_modules/.bin/protractor conf.js"
+  },
+  "devDependencies": {
+    "protractor": "5.1.0",
+    "protractor-screenshot-reporter": "0.0.5"
+  },
+  "dependencies": {
+    "protractor-screenshoter-plugin": "^0.10.3"
+  }
+}
